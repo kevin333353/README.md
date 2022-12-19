@@ -44,10 +44,10 @@ LSTM
 
 ## HeidiSQL使用語法
 
-SELECT * FROM sensors WHERE VALUE > 500 ORDER BY temp ASC LIMIT 5;   
+SELECT * FROM sensors WHERE VALUE > 500 ORDER BY temp ASC LIMIT 5    
 
-INSERT INTO sensors (VALUE,status) VALUES (RAND()*1000,RAND());   
+INSERT INTO sensors (VALUE,status) VALUES (RAND()*1000,RAND())     
 
-UPDATE sensors SET STATUS=RAND() WHERE true;
+UPDATE sensors SET STATUS=RAND() WHERE true   
 
 
