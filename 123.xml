@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" type="device" version="13.5.2" editor="www.draw.io">
+  <diagram id="9ea7d2c5-2033-896d-8b1d-ef9b6c9d497e" name="Page-1">
+    <mxGraphModel dx="1429" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="KySe1SMgp5MFRgHtPt-S-4" value="User" style="swimlane;fillColor=#ffffff;rounded=1;" vertex="1" parent="1" connectable="0">
+          <mxGeometry x="10" y="10" width="260" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="BQ5WTZ_m_7Bnvz1tC1_dh_" value="Product" style="swimlane;fillColor=#ffffff;rounded=1;" vertex="1" parent="1" connectable="0">
+          <mxGeometry x="300" y="10" width="260" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="Hc_i9J6tfyjg-HqbFkqMnI" value="Category" style="swimlane;fillColor=#ffffff;rounded=1;" vertex="1" parent="1" connectable="0">
+          <mxGeometry x="590" y="10" width="260" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="t-l3eNVJwQVq5Tw08Qzy4" value="Order" style="swimlane;fillColor=#ffffff;rounded=1;" vertex="1" parent="1" connectable="0">
+          <mxGeometry x="880" y="10" width="260" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="OoFZey6OgJZTbYcPnHRtXC" value="OrderItem" style="swimlane;fillColor=#ffffff;rounded=1;" vertex="1" parent="1" connectable="0">
+          <mxGeometry x="1170" y="10" width="260" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="nEKpTkl1AdXj9hMBXJ-K72" value="" style="endArrow=none;html=1;rounded=0;" edge="1" source="KySe1
